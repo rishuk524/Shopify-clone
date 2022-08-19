@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-shopifyclone**
+# **Project-shopifyclone** [LIVE LINK](https://shopifyc-lone.netlify.app/)
 >- Skills gained in this project
  >- learned about talwind css
  >- learned about how to make responsivness any webiste
